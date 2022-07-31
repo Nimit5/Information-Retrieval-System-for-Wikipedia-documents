@@ -1,0 +1,20 @@
+Q01	Vector space
+Q02	Open Source Software
+Q03	war between rama and ravana
+Q04	hanuman helped rama
+Q05	covid vaccine
+Q06	covid cases in india
+Q07	krishna helped pandava
+Q08	search great rivers
+Q09	Sita's husband Rama saved her from ravana 
+Q10	coding algorithm
+Q11	Differential equation
+Q12	group theory in algebra
+Q13	Boolean Algebra
+Q14	Deep learning
+Q15	flow chart
+Q16	Ancient history of India
+Q17	Sorting Algorithm
+Q18	search algorithm for database system   
+Q19	cave on the hill 
+Q20	mathematical theorems  
